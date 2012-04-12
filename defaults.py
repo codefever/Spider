@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+#-*- coding:utf-8 -*-
+
+OUTPUT_INTERVAL = 10
+IDLE_TO_QUIT = 6
+
+#LOG_LEVEL_CONSOLE = 4
+LOG_LEVEL_CONSOLE = 0
+LOG_FILE_NAME = r'spider.log'
+
+FILE_STORE_DIR = r''
+
+FETCH_TIMEOUT = 30
+
+INPUT_ENCODING = 'gb2312' #WIN32
